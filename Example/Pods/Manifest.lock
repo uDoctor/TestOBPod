@@ -1,0 +1,16 @@
+PODS:
+  - OBCyclePods (0.1.0)
+
+DEPENDENCIES:
+  - OBCyclePods (from `../`)
+
+EXTERNAL SOURCES:
+  OBCyclePods:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  OBCyclePods: e037c6326d3eb38307140fe46f7ce28bffefca24
+
+PODFILE CHECKSUM: 174aac6497bfd571da86149a1ba10e7805cec121
+
+COCOAPODS: 1.8.4

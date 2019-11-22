@@ -1,0 +1,6 @@
+framework module OBCyclePods {
+  umbrella header "OBCyclePods-umbrella.h"
+
+  export *
+  module * { export * }
+}

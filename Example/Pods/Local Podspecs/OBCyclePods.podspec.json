@@ -1,0 +1,22 @@
+{
+  "name": "OBCyclePods",
+  "version": "0.1.0",
+  "summary": "A short description of OBCyclePods.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/李杨/OBCyclePods",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "李杨": "714711047@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/李杨/OBCyclePods.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "OBCyclePods/Classes/**/*"
+}
