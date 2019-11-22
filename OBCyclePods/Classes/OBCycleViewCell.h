@@ -15,7 +15,7 @@ NS_ASSUME_NONNULL_BEGIN
 @property (nonatomic, strong) UIImage *placeholderImage;
 @property (nonatomic, strong) UIImageView *contentIV;
 
-- (void)fillElementWithImgString:(NSString *)imgUrl index:(NSInteger)index;
+- (void)fillElementWithImgString:(NSString *)imgUrl;
 @end
 
 NS_ASSUME_NONNULL_END

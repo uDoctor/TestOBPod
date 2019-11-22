@@ -66,9 +66,9 @@
     if (self.imagesArray.count <=0) {
         return;
     }
-    [self.leftView fillElementWithImgString:self.imagesArray[_leftIndex] index:_leftIndex];
-    [self.middleView fillElementWithImgString:self.imagesArray[_middleIndex] index:_middleIndex];
-    [self.rightView fillElementWithImgString:self.imagesArray[_rightIndex] index:_rightIndex];
+    [self.leftView fillElementWithImgString:self.imagesArray[_leftIndex]];
+    [self.middleView fillElementWithImgString:self.imagesArray[_middleIndex]];
+    [self.rightView fillElementWithImgString:self.imagesArray[_rightIndex]];
     
 }
 

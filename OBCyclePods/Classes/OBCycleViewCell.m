@@ -37,8 +37,8 @@ static NSCache *cache = nil;
 }
 
 
-- (void)fillElementWithImgString:(NSString *)imgUrl index:(NSInteger)index {
-    self.contentLabs.text = [NSString stringWithFormat:@"[%ld]",index];
+- (void)fillElementWithImgString:(NSString *)imgUrl {
+//    self.contentLabs.text = [NSString stringWithFormat:@"[%ld]",index];
     if (self.placeholderImage) {
         self.contentIV.image = self.placeholderImage;
     }
